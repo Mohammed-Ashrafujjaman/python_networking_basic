@@ -1,9 +1,9 @@
 #!/usr/bin/pyhton3
 
 class human:
-    def speak(self) -> str:
+    def speak(self):
         # print("speak")
-        return "speak"
+        return int(10)
 
     def walk(self) -> str:
         # print("walk")
